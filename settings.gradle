@@ -1,0 +1,3 @@
+include ':rcplugin'
+include ':app'
+rootProject.name = "RebaseClass"
